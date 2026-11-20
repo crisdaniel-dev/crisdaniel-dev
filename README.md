@@ -11,29 +11,14 @@ BSIS student focused on software development, data structures, and algorithmic p
 
 ### 🛠️ Tech Stack
 
-<a href="https://github.com/crisdaniel-dev?tab=repositories" title="Explore my repositories">
-  <img align="right" src="https://raw.githubusercontent.com/crisdaniel-dev/crisdaniel-dev/main/mxj_files-bat-28807.gif" width="210" alt="Bat animation" />
-</a>
+<a href="https://github.com/crisdaniel-dev?tab=repositories" title="Explore my repositories"><img align="right" src="https://raw.githubusercontent.com/crisdaniel-dev/crisdaniel-dev/main/mxj_files-bat-28807.gif" width="210" alt="Bat animation" /></a>
 
 <p align="left">
-  <a href="https://github.com/crisdaniel-dev/python-codebase">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/crisdaniel-dev?tab=repositories&q=&type=&language=c">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/crisdaniel-dev?tab=repositories&q=&type=&language=java">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  </a>
+  <a href="https://github.com/crisdaniel-dev/python-codebase"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>&nbsp;&nbsp;<a href="https://github.com/crisdaniel-dev?tab=repositories&q=&type=&language=c"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>&nbsp;&nbsp;<a href="https://github.com/crisdaniel-dev?tab=repositories&q=&type=&language=java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/crisdaniel-dev?tab=repositories">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/crisdaniel-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://github.com/crisdaniel-dev?tab=repositories"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>&nbsp;&nbsp;<a href="https://github.com/crisdaniel-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <br clear="both" />
@@ -43,10 +28,6 @@ BSIS student focused on software development, data structures, and algorithmic p
 ### 📊 GitHub Activity
 
 <p align="left">
-  <a href="https://github.com/crisdaniel-dev?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=crisdaniel-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/crisdaniel-dev?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisdaniel-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="Top Languages" />
-  </a>
+  <a href="https://github.com/crisdaniel-dev?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=crisdaniel-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="GitHub Stats" /></a>
+  <a href="https://github.com/crisdaniel-dev?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisdaniel-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="Top Languages" /></a>
 </p>
