@@ -11,7 +11,6 @@ BSIS student focused on software development, data structures, and algorithmic p
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
 
 <table>
   <tr>
