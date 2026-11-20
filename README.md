@@ -11,9 +11,11 @@ BSIS student focused on software development, data structures, and algorithmic p
 
 ### 🛠️ Tech Stack
 
+### 🛠️ Tech Stack
+
 <table>
   <tr>
-    <td width="42%" valign="top">
+    <td valign="top">
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />&nbsp;&nbsp;
@@ -24,11 +26,12 @@ BSIS student focused on software development, data structures, and algorithmic p
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </p>
     </td>
-    <td width="58%" align="right" valign="middle">
-      <img src="https://raw.githubusercontent.com/crisdaniel-dev/crisdaniel-dev/main/mxj_files-bat-28807.gif" width="210" alt="Bat animation" />
-    </td>
   </tr>
 </table>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/crisdaniel-dev/crisdaniel-dev/main/mxj_files-bat-28807.gif" width="210" alt="Bat animation" />
+</p>
 ---
 
 ### 📊 GitHub Activity
