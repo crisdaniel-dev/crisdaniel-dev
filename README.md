@@ -11,7 +11,6 @@ BSIS student focused on software development, data structures, and algorithmic p
 
 ### 🛠️ Tech Stack
 
-
 <table>
   <tr>
     <td valign="top">
@@ -30,7 +29,6 @@ BSIS student focused on software development, data structures, and algorithmic p
 
 <p align="right">
   <img src="https://raw.githubusercontent.com/crisdaniel-dev/crisdaniel-dev/main/mxj_files-bat-28807.gif" width="210" alt="Bat animation" />
-</p>
 ---
 
 ### 📊 GitHub Activity
