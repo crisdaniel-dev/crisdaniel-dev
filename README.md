@@ -11,24 +11,21 @@ BSIS student focused on software development, data structures, and algorithmic p
 
 ### 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />&nbsp;&nbsp;
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </p>
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://raw.githubusercontent.com/crisdaniel-dev/crisdaniel-dev/main/mxj_files-bat-28807.gif" width="210" alt="Bat animation" />
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/crisdaniel-dev/crisdaniel-dev/main/mxj_files-bat-28807.gif" width="210" alt="Bat animation" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+<br clear="both" />
+
 ---
 
 ### 📊 GitHub Activity
