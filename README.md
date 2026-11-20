@@ -9,28 +9,15 @@ I'm a Bachelor of Science in Information Systems (BSIS) student focused on softw
 
 ---
 
-### 🛠️ Tech Stack & Interactive Demo
+### 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </p>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <a href="https://crisdaniel-dev.github.io/kinetic-sand/">
-        <img src="https://img.shields.io/badge/Launch_Sand_Chamber-Cursor_Magnet_Physics-7aa2f7?style=for-the-badge&logo=sparkles&logoColor=13141f" alt="Launch Kinetic Sand Chamber" />
-      </a>
-      <br />
-      <sub>Click to open the interactive 60fps cursor-following sand chamber</sub>
-    </td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+- 💧 **Interactive Demo:** [360° Water Chamber (Mouse Follow & Tilt Physics)](https://crisdaniel-dev.github.io/kinetic-sand/)
 
 ---
 
