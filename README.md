@@ -9,29 +9,17 @@ I'm a Bachelor of Science in Information Systems (BSIS) student focused on softw
 
 ---
 
-### 🛠️ Tech Stack & Preview
+### 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </p>
-      <p>
-        💧 <strong>Interactive Demo:</strong> <a href="https://crisdaniel-dev.github.io/kinetic-sand/">360° Water Chamber (Mouse Follow &amp; Tilt Physics)</a>
-      </p>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <a href="https://crisdaniel-dev.github.io/kinetic-sand/">
-        <img src="https://raw.githubusercontent.com/crisdaniel-dev/crisdaniel-dev/main/mg_files-bot-28807.gif" width="220" alt="Beach wave preview" />
-      </a>
-    </td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/crisdaniel-dev/crisdaniel-dev/main/mxj_files-bat-28807.gif" width="260" alt="Animated GIF preview" />
+</p>
 
 ---
 
