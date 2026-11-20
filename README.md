@@ -30,4 +30,12 @@ BSIS student focused on software development, data structures, and algorithmic p
 <p align="left">
   <a href="https://github.com/crisdaniel-dev?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=crisdaniel-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="GitHub Stats" /></a>
   <a href="https://github.com/crisdaniel-dev?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisdaniel-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="Top Languages" /></a>
+  <a href="https://github.com/crisdaniel-dev?tab=repositories"><img src="https://streak-stats.demolab.com?user=crisdaniel-dev&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" /></a>
 </p>
+
+---
+
+### 🚀 Featured Highlights
+
+- **Data Structures & Algorithms in Python:** Structured implementations, traversals, and problem-solving notes in [`python-codebase`](https://github.com/crisdaniel-dev/python-codebase).
+- **Interactive Web & Simulation Work:** Hands-on experiments and live deployments hosted via [GitHub Pages](https://crisdaniel-dev.github.io/kinetic-sand/).
