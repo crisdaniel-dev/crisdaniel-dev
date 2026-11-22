@@ -1,6 +1,6 @@
 ### Hi there, I'm Crisdaniel 👋
 
-BSIS student focused on software development, data structures, and algorithmic problem-solving—building clean, practical tools and learning how software works under the hood.
+BSIS student focused on software development, data structures, and algorithmic problem-solving-building clean, practical tools and learning how software works under the hood.
 
 - 🔭 **Building:** Custom Data Structures & Algorithms in [Python](https://github.com/crisdaniel-dev/python-codebase) & personal developer portfolio
 - 🌱 **Learning:** Algorithmic problem-solving, software architecture & full-stack web basics
