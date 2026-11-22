@@ -38,4 +38,4 @@ BSIS student focused on software development, data structures, and algorithmic p
 ### 🚀 Featured Highlights
 
 - **Data Structures & Algorithms in Python:** Structured implementations, traversals, and problem-solving notes in [`data-structures-and-algorithms`](https://github.com/crisdaniel-dev/data-structures-and-algorithms).
-- **Interactive Web & Simulation Work:** Hands-on experiments and live deployments hosted via [GitHub Pages](https://crisdaniel-dev.github.io/Home-workout-app/).
+- **Interactive Web & Simulation Work:** Hands-on experiments and live deployments hosted via [GitHub Pages] (https://crisdaniel-dev.github.io/Home-workout-app/).
