@@ -1,6 +1,6 @@
 ### Hi there, I'm Crisdaniel 👋
 
-BSIS student focused on software development, data structures, and algorithmic problem-solving building clean, practical tools and learning how software works under the hood.
+BSIS student focused on software development, data structures, and algorithmic problem-solving—building clean, practical tools and learning how software works under the hood.
 
 - 🔭 **Building:** Custom Data Structures & Algorithms in [Python](https://github.com/crisdaniel-dev/python-codebase) & personal developer portfolio
 - 🌱 **Learning:** Algorithmic problem-solving, software architecture & full-stack web basics
@@ -37,5 +37,5 @@ BSIS student focused on software development, data structures, and algorithmic p
 
 ### 🚀 Featured Highlights
 
-- **Data Structures & Algorithms in Python:** Structured implementations, traversals, and problem-solving notes in [`data-structures-and-algorithms`](https://github.com/crisdaniel-dev/data-structures-and-algorithms).
-- **Interactive Web & Simulation Work:** Hands-on experiments and live deployments hosted via [GitHub Pages](https://crisdaniel-dev.github.io/Home-workout-app/).
+- **Fern & Iron (Home Workout App):** A/B strength routine tracker with set checkboxes, weight/rep logging, 1–3 min rest timer, local storage history with JSON backup/restore, and installable PWA support via GitHub Pages (UI/UX & layout designed by me, built with AI assistance) — [Live App](https://crisdaniel-dev.github.io/Home-workout-app/) | [Source Code](https://github.com/crisdaniel-dev/Home-workout-app)
+- **Crisdaniel's Training Log:** Daily training and habit tracker featuring date navigation, workout & exercise guide tools, hydration ring, creatine & sleep tracking, daily chores, progress charts/calendar, and installable PWA support via GitHub Pages (UI/UX & layout designed by me, built with AI assistance) — [Live App](https://crisdaniel-dev.github.io/daily---training---log/) | [Source Code](https://github.com/crisdaniel-dev/daily---training---log)
